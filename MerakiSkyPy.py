@@ -32,7 +32,7 @@ def getAPsStatus():
 
 def getStatus():
         try:
-                print("Scanning Seucirty Devices")
+                print("Scanning Security Devices")
                 Offices_Status=getOfficeStatus()
                 for x, y in Offices_Status.items():
                     if(y=="offline"):     
