@@ -12,6 +12,7 @@ The application scans all devices within an organization and store the status of
 
 ## Install and Setup
   1. Install required libraries on Python
+  	
     -	Meraki (https://pypi.org/project/meraki/)
         * pip install meraki
     -	Skpy (https://pypi.org/project/SkPy/)
