@@ -12,16 +12,16 @@ The application scans all devices within an organization and store the status of
 
 ## Install and Setup
   1. Install required libraries on Python
-    -	Meraki
+    -	Meraki (https://pypi.org/project/meraki/)
       Pip install meraki
-    -	Skpy
+    -	Skpy (https://pypi.org/project/SkPy/)
       Pip install skpy
 
   2. Meraki API Key (https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API)
 
 ## Using the application
   1.	Open the application with your Python IDLE https://www.python.org/downloads/
-  2.  Edit Meraki API key value
+  2. Edit Meraki API key value
   3.	Edit Organization ID value(How to get organization ID https://developer.cisco.com/meraki/api/#!get-organizations)
   4.	Get your system admin skype contact name(https://support.skype.com/en/faq/FA34793/how-do-i-view-someone-s-profile-in-skype )
   5.	Run the application
