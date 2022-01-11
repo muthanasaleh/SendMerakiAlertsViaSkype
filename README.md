@@ -3,6 +3,7 @@ This is part of a project to have one Alert system for all network devices (Mera
 
 ## Requirements
   **To use this application you need:**
+  
     -	Python 3.7+
     -	Meraki API key
     -	Skype account
