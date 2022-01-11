@@ -16,6 +16,7 @@ The application scans all devices within an organization and store the status of
       Pip install meraki
     -	Skpy (https://pypi.org/project/SkPy/)
       Pip install skpy
+   [Learn more about pip command] (https://pip.pypa.io/en/stable/installation/)
 
   2. Meraki API Key (https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API)
 
