@@ -11,8 +11,7 @@ This is part of a project to have one Alert system for all network devices (Mera
 The application scans all devices within an organization and store the status of each device in a dictionary (for example {“Device1, offline”}). Then it loops through the list of all devices stored in the dictionary and send an alert if any device is offline to a contact in your skype account (Your system admin Skype account). The script runs every 2 minutes and it can be changed based on how critical the impact is on your business. However, running high-volume API monitoring tasks in realtime can over throttle the system and lead to 429 errors (Read More https://developer.cisco.com/meraki/api-v1/#!rate-limit)
 
 ## Install and Setup
-  1. Install required libraries on Python
-  	
+  1. **Install required libraries on Python**
     -	Meraki (https://pypi.org/project/meraki/)
         * pip install meraki
     -	Skpy (https://pypi.org/project/SkPy/)
