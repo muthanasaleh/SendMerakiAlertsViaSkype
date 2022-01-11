@@ -35,4 +35,4 @@ The application scans all devices within an organization and store the status of
   •	Microsoft Skype
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Distributed under the MIT License. See LICENSE.txt for more information.
