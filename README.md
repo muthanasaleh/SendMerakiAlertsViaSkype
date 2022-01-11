@@ -32,3 +32,5 @@ Technologies used
   •	Cisco Meraki MX devices
   •	Cisco Meraki MS Devices
   •	Cisco Meraki MR devices
+  •	Microsoft Skype
+  
