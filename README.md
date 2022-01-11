@@ -12,11 +12,11 @@ The application scans all devices within an organization and store the status of
 
 ## Install and Setup
   1. **Install required libraries on Python**
-    -	Meraki (https://pypi.org/project/meraki/)
+  - Meraki (https://pypi.org/project/meraki/)
         * pip install meraki
-    -	Skpy (https://pypi.org/project/SkPy/)
+  - Skpy (https://pypi.org/project/SkPy/)
         * pip install skpy
-    - [Learn more about pip command](https://pip.pypa.io/en/stable/installation/)
+  - [Learn more about pip command](https://pip.pypa.io/en/stable/installation/)
 
   2. Meraki API Key (https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API)
 
