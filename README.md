@@ -26,6 +26,9 @@ The application scans all devices within an organization and store the status of
   4.	Get your system admin skype contact name(https://support.skype.com/en/faq/FA34793/how-do-i-view-someone-s-profile-in-skype )
   5.	Run the application
 
+## Output
+!https://github.com/muthanasaleh/SendMerakiAlertsViaSkype/blob/e7524dc7607c342dfdbea99680fc27bd95f59560/images/demo.PNG
+
 ## Technologies used
   **The following technologies were used as part of this demo:**
   1.	Cisco Meraki MX devices
