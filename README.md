@@ -21,11 +21,12 @@ The application scans all devices within an organization and store the status of
   2. Meraki API Key (https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API)
 
 ## Using the application
-  1.	Open the application with your Python IDLE https://www.python.org/downloads/
-  2. Edit Meraki API key value
-  3.	Edit Organization ID value(How to get organization ID https://developer.cisco.com/meraki/api/#!get-organizations)
-  4.	Get your system admin skype contact name(https://support.skype.com/en/faq/FA34793/how-do-i-view-someone-s-profile-in-skype )
-  5.	Run the application
+  1.	Download MerakiSkyPy.py
+  2.	Open the application with your Python IDLE https://www.python.org/downloads/
+  3. Edit Meraki API key value
+  4.	Edit Organization ID value(How to get organization ID https://developer.cisco.com/meraki/api/#!get-organizations)
+  5.	Get your system admin skype contact name(https://support.skype.com/en/faq/FA34793/how-do-i-view-someone-s-profile-in-skype )
+  6.	Run the application
 
 ## Output
 ![**Alerts sent over Skype**](https://github.com/muthanasaleh/SendMerakiAlertsViaSkype/blob/e7524dc7607c342dfdbea99680fc27bd95f59560/images/demo.PNG)
